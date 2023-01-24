@@ -1,0 +1,87 @@
+
+[id] {
+   scroll-margin-top: 4.5em;
+}
+
+.titulos {
+   font-size: large;
+   padding-top: 12px;
+   padding-bottom: 0px;
+   font-weight: bold;
+   letter-spacing: 1px;
+}
+
+.subtitulo {
+   font-size: large;
+} 
+
+.años {
+   font-style: oblique;
+}
+
+.pietitulo {
+   font-weight: bold;
+   margin-bottom: 0px;
+}
+
+.piedepagina {
+   font-size: medium;
+   margin-bottom: 0px;
+}
+
+.navbar {
+   background-color: #46220f;
+}
+
+.navbar-brand {
+   font-family: 'Dancing Script';
+   font-size: 25px;
+}
+
+.navbar-toggler {
+   font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navbar-nav {
+   font-family: 'Roboto Condensed', sans-serif;
+}
+
+#cabecera {
+   padding-top: 100px;
+   padding-bottom: 30px;
+   background-color: #f3cea6;
+}
+
+.masthead-heading {
+   font-family: 'Dancing Script';
+   font-size: 48px;
+   padding-bottom: 5px;
+}
+
+.masthead-subheading {
+   padding-top: 5px;
+   font-size: larger;
+}
+
+.seccion {
+   padding-top: 20px;
+   padding-bottom: 20px;
+   background-color: #aa7444;
+   font-family: 'Roboto Condensed', sans-serif;
+}
+
+.footer {
+   padding-top: 20px;
+   padding-bottom: 30px;
+   background-color: #46220f;
+   font-family: 'Roboto Condensed', sans-serif;
+}
+
+#botonMenu, #botonEnviar {
+   background-color: #fa8072;
+}
+
+#botonEnviar:focus {
+   border-color: white;
+   border-width: 3px;
+ }
